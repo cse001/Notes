@@ -1,0 +1,1 @@
+I have started a new course on Kaggle, on machine learning and the following document contains my notes from the course. All credits are given to Kaggle.
