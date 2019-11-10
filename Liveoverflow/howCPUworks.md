@@ -1,5 +1,3 @@
-
-
 # How CPU Works
 
 ## Registers
