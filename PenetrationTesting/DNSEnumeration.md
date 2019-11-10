@@ -23,6 +23,14 @@ dnsreckon -r ip/netmask
 dig axfr @ip
 ```
 
+ 
+
+
+
+<hr>
+
+Important Note :  DNS runs on port 53 and thus we can add that ip to the /etc/resolve.conf and will be able to access the domain names local to the machine.
+
 
 
 
